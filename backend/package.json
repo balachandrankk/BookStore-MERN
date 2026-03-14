@@ -21,6 +21,6 @@
     "nodemon": "^3.0.1"
   },
   "keywords": ["bookstore", "mern", "mongodb", "express", "nodejs"],
-  "author": "Your Name",
+  "author": "Balachandran",
   "license": "MIT"
 }
